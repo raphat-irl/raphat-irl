@@ -20,15 +20,17 @@
 <h3 align="left">Stats</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphat-irl&show_icons=true&locale=en" alt="raphat-irl" /></p>
 
+<div align="left">
 <h3 align="left">Most Used Languages</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
+</div>
 
-<div align="left">
-<h1 align="left">Weather</h1>
+
+<div align="center">
+<h3 align="left">Weather</h3>
 <img alt="hotday" width="600" height="auto" src="https://im.ezgif.com/tmp/ezgif-1-e0dbff97b0.gif">
 </div>
 
-<h1 align="center"></h1>
-<h1 align="left">Music</h1>
+<h1 align="left">Spotify</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
