@@ -24,6 +24,7 @@
 <div align="left">
 <h3 align="left">Most Used Languages</h3>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl"/>
+<h3 align="center"></h3>
 </div>
 
 <div align="center">
