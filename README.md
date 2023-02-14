@@ -24,7 +24,7 @@
 <div>
 <h3 align="left">:revolving_hearts:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
-<img alt="cat" width="300" height="300" src="https://64.media.tumblr.com/4a278e7f85255dc24fe06486e52f543a/c7c5306353949829-a9/s500x750/d9bec26849b8573d64a1f3bcff50d803aa1ce56d.gifv">
+<img alt="cat" width="300" height="300" src="https://www.tumblr.com/srashx/709258190466039808?source=share">
 </div>
 
 
