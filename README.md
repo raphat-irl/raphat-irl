@@ -26,8 +26,7 @@
 </div>
 
 
-<div align="center">
-<h3 align="left">Weather</h3>
+<div align="left">
 <img alt="hotday" width="600" height="auto" src="https://im.ezgif.com/tmp/ezgif-1-e0dbff97b0.gif">
 </div>
 
