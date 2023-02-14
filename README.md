@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raphat</h1>
+<h1 align="center">Hi</h1>
 
 <div align="center">
-  <img alt="banner" width="800" height="auto" src="https://64.media.tumblr.com/076ad007945f2c247f21166fb2862516/tumblr_p2cqnpGOya1w60dauo1_540.gif">
+  <img alt="banner" width="600" height="auto" src="https://64.media.tumblr.com/076ad007945f2c247f21166fb2862516/tumblr_p2cqnpGOya1w60dauo1_540.gif">
 </div>
 
 <h1 align="center">About me</h1>
@@ -24,9 +24,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
 </div>
 
-<div align="left">
-<img alt="hotday" width="600" height="auto" src="https://im.ezgif.com/tmp/ezgif-1-e0dbff97b0.gif">
-</div>
+
+<img alt="hotday" width="300" height="auto" src="https://im.ezgif.com/tmp/ezgif-1-e0dbff97b0.gif">
 
 <h1 align="left">Spotify</h1>
 
