@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="banner" width="auto" height="auto" src="https://im5.ezgif.com/tmp/ezgif-5-9539837434.webp">
+  <img alt="greet" width="auto" height="auto" src="https://im5.ezgif.com/tmp/ezgif-5-f60781de7e.webp">
 </div>
 
 <h1 align="center">About me</h1>
