@@ -24,7 +24,6 @@
 
 
 
-<h1 align="left">Spotify</h1>
-
+<h3 align="left">Spotify</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
