@@ -19,11 +19,11 @@
 
 <div align="left">
   <h3 align="left">Most Used Languages</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" />
 </div>
 
 
 
-<h3 align="left">Spotify</h3>
+<h1 align="left">Spotify</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
