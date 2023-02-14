@@ -28,6 +28,6 @@
 </div>
 
 
-<h3 align="left">Spotify :</h3>
+<h3 align="left">:musical_note:</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
