@@ -18,7 +18,7 @@
 
 <div align="left">
 <h3 align="left">Stats</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphat-irl&show_icons=true&locale=en" alt="raphat-irl" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphat-irl&show_icons=true&locale=en&theme=dark" alt="raphat-irl" /></p>
 <div align="left">
   
 <div align="left">
@@ -26,8 +26,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" />
 </div>
 
-<img alilgn="left" src="https://64.media.tumblr.com/23d5a06f51d1cc3c09c1dd1c6f90e963/fa316856ce4912b3-07/s400x600/18eddbad75b5b4a1494a101a6a220d23eef8dca4.gifv"/>
+<img alilgn="left" src="https://64.media.tumblr.com/1dad3da46e0865cad7e5532ebb33c82d/298c45ab969439aa-a4/s540x810/badc219518fb59954119fe2160d151eea9d16b6a.gifv"/>
 
-<h1 align="left">Spotify</h1>
+<h3 align="left">Spotify</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
