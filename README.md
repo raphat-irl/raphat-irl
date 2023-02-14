@@ -22,9 +22,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
 </div>
 
-
-<img alt="hotday" width="300" height="auto" src="https://im.ezgif.com/tmp/ezgif-1-e0dbff97b0.gif">
-
 <h1 align="left">Spotify</h1>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
