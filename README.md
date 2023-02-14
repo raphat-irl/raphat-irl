@@ -22,7 +22,7 @@
 </div>
   
 <div>
-<h3 align="left">Most Used Languages :</h3>
+<h3 align="left">Most Used Languages :revolving_hearts:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
 <img alt="cat" width="300" height="300" src="https://im5.ezgif.com/tmp/ezgif-5-64946624a5.webp">
 </div>
