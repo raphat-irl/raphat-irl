@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="greet" width="auto" height="auto" src="https://im5.ezgif.com/tmp/ezgif-5-f60781de7e.webp">
+  <img alt="greet" width="auto" height="auto" src="https://64.media.tumblr.com/ea4c7ed31efa1331ab2a06196dda544b/f3487b1c9e78d89f-54/s540x810/e31af6b645d84991790dc9b09d4333c2845a2f83.gifv">
 </div>
 
 <h1 align="center">About me</h1>
@@ -24,7 +24,7 @@
 <div>
 <h3 align="left">:revolving_hearts:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
-<img alt="cat" width="300" height="300" src="https://im5.ezgif.com/tmp/ezgif-5-64946624a5.webp">
+<img alt="cat" width="300" height="300" src="https://64.media.tumblr.com/4a278e7f85255dc24fe06486e52f543a/c7c5306353949829-a9/s500x750/d9bec26849b8573d64a1f3bcff50d803aa1ce56d.gifv">
 </div>
 
 
