@@ -14,6 +14,8 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://discord.gg/UkNTr9SQED" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SRashX#0473" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/raphat-aektantidamrong-3732a9287" target="blank"><img align="center" src="https://www.svgrepo.com/show/81143/linkedin.svg"
+height="30" width="40" /></a>                                                                                      
 </p>
 
 <div>
