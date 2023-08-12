@@ -4,7 +4,7 @@
 
 <h1 align="center">About me</h1>
 
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">A passionate iOS developer from Thailand</h3>
 
 <div>
 <h3 align="left">Languages and Tools :</h3>
