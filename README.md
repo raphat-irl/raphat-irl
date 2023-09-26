@@ -1,7 +1,6 @@
-<div align="center">
-  <img alt="geet" width="300" height="300" src="https://64.media.tumblr.com/ea4c7ed31efa1331ab2a06196dda544b/f3487b1c9e78d89f-54/s540x810/e31af6b645d84991790dc9b09d4333c2845a2f83.gifv">
-</div>
+<img src="https://64.media.tumblr.com/ea4c7ed31efa1331ab2a06196dda544b/f3487b1c9e78d89f-54/s540x810/e31af6b645d84991790dc9b09d4333c2845a2f83.gifv" alt="banner">
 
+</div>
 <h1 align="center">About me</h1>
 
 <h3 align="center">A passionate iOS developer from Thailand</h3>
