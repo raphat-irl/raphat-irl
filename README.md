@@ -25,17 +25,9 @@ height="30" width="40" /></a>
 </p>
 
 <div>
-<h3 align="left">Stats :</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raphat-irl&show_icons=true&locale=en&theme=dark" alt="raphat-irl" /></p>
-</div>
-  
-<div>
 <h3 align="left">:revolving_hearts:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raphat-irl&show_icons=true&locale=en&layout=compact" alt="raphat-irl" /></p>
+
 <img alt="cat" width="300" height="300" src="https://media.tenor.com/fXBwL7dcuqEAAAAC/chainsaw-man-power.gif">
 </div>
 
 
-<h3 align="left">:musical_note:</h3>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21tvqn4gmtcribmxhisclrtaa&count=3&width=600)
